@@ -1,3 +1,3 @@
 # codealpha_tasks
 
-#Task 1: Netqork sniffer
+#Task 1: Network sniffer
